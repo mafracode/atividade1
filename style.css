@@ -1,0 +1,77 @@
+body{
+  text-align: center;
+  margin: 0% auto;
+}
+
+#bunda{
+  width: 626px;
+  height: 486px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  top: 35%;
+  left: 50%;
+}
+
+h1{
+  font-family: "Dosis", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+}
+
+#textos{
+  width: 626px;
+  margin: auto;
+}
+
+p{
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-size: 15px;
+}
+
+span{
+  color: #EE24FF;
+  font-weight: bolder;
+
+}
+
+#txt1{
+  color: #3F3D56;
+  font-weight: bolder;
+
+}
+
+#txt2{
+  color: #828282;
+  font-weight: bolder;
+
+}
+
+#muie img{
+  width: 350px;
+  margin-bottom: 32px;
+}
+
+#link a{
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+  color: #3F3D56;
+}
+
+#line{
+  width: 391px;
+  height: 0px;
+  border: 1px solid #ECEFF2;
+  margin: 0 auto 8px;
+  margin-top: 64px;
+}
+
+#onda img{
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+
+
